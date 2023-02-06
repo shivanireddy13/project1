@@ -9,12 +9,12 @@ Most name changes happened under the Indian National Congress government, immedi
 ## Analysis
 
 ## Tools used (and skills gained)
-(WebScraper)[https://webscraper.io/]
+[WebScraper] (https://webscraper.io/)
 Pandas
 Jupyter Notebook
 Datawrapper
 Illustrator
-(Big-Phoney, a Python library)[https://github.com/repp/big-phoney]
+[Big-Phoney](https://github.com/repp/big-phoney), a Python library
 HTML
 CSS 
 
