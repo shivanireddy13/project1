@@ -15,10 +15,8 @@ I used pandas and Microsoft Excel to conduct preliminary analysis and clean up t
 <ul>Pandas</ul>
 <ul>Jupyter Notebook</ul>
 <ul>Datawrapper</ul>
-<ul>Illustrator</ul>
-<ul>[Big-Phoney](https://github.com/repp/big-phoney), a Python library</ul>
 <ul>HTML</ul>
 <ul>CSS</ul> 
 
 ## What I could've done better
-I was hoping to delve into the specific reason some names were changed, and represent which syllables were changed the most often, which is, which ones the British changed the most because they found the hardest to pronounce using Big-Phoney. I still hope to, so technically this project is still a work-in-progress. 
+I was hoping to delve into the specific reason some names were changed, and represent which syllables were changed the most often, which is, which ones the British changed the most because they found the hardest to pronounce using Big-Phoney, a python library that does syllable analysis. I still hope to, so technically this project is still a work-in-progress. 
