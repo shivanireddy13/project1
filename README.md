@@ -1,4 +1,4 @@
-# The Decolonisation of India's Map
+# The Decolonization of India's Map
 This project visualizes cities in India that have been renamed post-independence. 
 
 ## Summary 
