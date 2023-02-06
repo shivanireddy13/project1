@@ -11,14 +11,14 @@ I used WebScraper to scrape [this Wikipedia list](https://en.wikipedia.org/wiki/
 I used pandas and Microsoft Excel to conduct preliminary analysis and clean up the data. Then I used DataWrapper to visualize it. 
 
 ## Tools used (and skills gained)
-[WebScraper](https://webscraper.io/)
+<ul>[WebScraper](https://webscraper.io/)
 Pandas
 Jupyter Notebook
 Datawrapper
 Illustrator
 [Big-Phoney](https://github.com/repp/big-phoney), a Python library
 HTML
-CSS 
+CSS</ul> 
 
 ## What I could've done better
 I was hoping to delve into the specific reason some names were changed, and represent which syllables were changed the most often, which is, which ones the British changed the most because they found the hardest to pronounce using Big-Phoney. I still hope to, so technically this project is still a work-in-progress. 
