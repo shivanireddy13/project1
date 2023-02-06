@@ -1,5 +1,5 @@
 # The Decolonization of India's Map
-This project visualizes cities in India that have been renamed post-independence. 
+This project visualizes cities in India that have been renamed post-independence in 1947. 
 
 ## Summary 
 Most name changes happened under the Indian National Congress government, immediately post-independence. My home state, infact, Karnataka, is in the lead here, with 12 name changes. 
