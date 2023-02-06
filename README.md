@@ -11,7 +11,7 @@ I used WebScraper to scrape [this Wikipedia list](https://en.wikipedia.org/wiki/
 I used pandas and Microsoft Excel to conduct preliminary analysis and clean up the data. Then I used DataWrapper to visualize it. 
 
 ## Tools used (and skills gained)
-<ul>[WebScraper](https://webscraper.io/) </ul>
+<ul>[WebScraper extension](https://webscraper.io/) </ul>
 <ul>Pandas</ul>
 <ul>Jupyter Notebook</ul>
 <ul>DataWrapper</ul>
