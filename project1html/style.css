@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
 body {
     background-color: white;
-    font-family: "Garamond", serif;
+    font-family: 'Lora', 'Arial Narrow Bold';
     color: #000000;
     /* margin-left: 25%;
     margin-right:25%; */
@@ -8,7 +10,7 @@ body {
 }
 
 #greyheader{ 
-    background-color: #F4F4F4;
+    background-color: #d0dfc8;
 }
 
 div {
@@ -17,6 +19,12 @@ div {
     padding-top: 40px;
     padding-bottom: 40px;
 }
+
+#dotplot{
+    padding-left: 10%;
+    padding-right:10%;
+}
+]
 
 h1, h2 {text-align: center;}
 
