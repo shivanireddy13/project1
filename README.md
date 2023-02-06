@@ -6,9 +6,9 @@ Most name changes happened under the Indian National Congress government, immedi
 
 # Data Collection
 
-#Analysis
+# Analysis
 
-#Tools used (and skills gained)
+# Tools used (and skills gained)
 (WebScraper)[https://webscraper.io/]
 Pandas
 Jupyter Notebook
